@@ -1,0 +1,34 @@
+@media screen and (max-width : 600px) {
+  .w-3\/4 {
+      width: 98%!important;
+  }
+  .m-auto{
+      margin: inherit!important;
+  }
+  .w-\[12\.5\%\] {
+      width: 14%!important;
+  }
+  .p-4{
+      padding: 0.5rem!important;
+  }
+  .h-24 {
+      height: 10rem!important;
+  }
+  .bg-red-600{
+      --tw-bg-opacity: 1!important;
+      background-color: none!important;
+  }
+  .positionspan{
+      position: relative!important;
+      bottom: 2.5rem!important;
+      left: 10rem!important;
+      height: 6%!important;
+  }
+  .text-3xl{
+      font-size: 1.3rem!important;
+      line-height: 2rem!important;
+  }
+  .center{
+      text-align: center!important;
+  }
+}
